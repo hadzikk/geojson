@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jl. Cihanjuang"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.56875311776862, -6.853554416027253],
+          [107.5691550520118, -6.851697347235059]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jl. Cisintok Kadumulya"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.56875024603012, -6.85354544896354],
+          [107.57035703469285, -6.854042251509559]
+        ]
+      }
+    }
+  ]
+}
